@@ -16,6 +16,9 @@ Développer un jeu de type sandbox inspiré de Minecraft, avec un monde génér�
 🚧 Optimisation : Chargement dynamique des chunks pour de meilleures performances.
 
 ## 🛠️ Technologies utilisées
+
 Moteur : Godot Engine
+
 Langage : GDScript
+
 Génération de terrain : Algorithmes procéduraux (🚧)
